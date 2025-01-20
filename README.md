@@ -1,4 +1,4 @@
-# Altium-CNC-Breakout-Mach-3-PCN-2015
+# Altium-CNC-Breakout-Mach-3-PCB-2015
 ## Overview
 A hardware designed in 2015 to serve as an interface between CNC machines and Mach-3 software.
 
